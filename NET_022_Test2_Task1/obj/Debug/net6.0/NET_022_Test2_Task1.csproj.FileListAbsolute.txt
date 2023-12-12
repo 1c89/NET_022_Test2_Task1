@@ -1,0 +1,14 @@
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\bin\Debug\net6.0\NET_022_Test2_Task1.exe
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\bin\Debug\net6.0\NET_022_Test2_Task1.deps.json
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\bin\Debug\net6.0\NET_022_Test2_Task1.runtimeconfig.json
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\bin\Debug\net6.0\NET_022_Test2_Task1.dll
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\bin\Debug\net6.0\NET_022_Test2_Task1.pdb
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\obj\Debug\net6.0\NET_022_Test2_Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\obj\Debug\net6.0\NET_022_Test2_Task1.AssemblyInfoInputs.cache
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\obj\Debug\net6.0\NET_022_Test2_Task1.AssemblyInfo.cs
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\obj\Debug\net6.0\NET_022_Test2_Task1.csproj.CoreCompileInputs.cache
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\obj\Debug\net6.0\NET_022_Test2_Task1.dll
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\obj\Debug\net6.0\refint\NET_022_Test2_Task1.dll
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\obj\Debug\net6.0\NET_022_Test2_Task1.pdb
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\obj\Debug\net6.0\NET_022_Test2_Task1.genruntimeconfig.cache
+C:\Study\Solutions\NET_022_Test2_Task1\NET_022_Test2_Task1\obj\Debug\net6.0\ref\NET_022_Test2_Task1.dll
